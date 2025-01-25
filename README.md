@@ -1,2 +1,2 @@
-# Python-Assignments-25
+# Python-Assignments
 My Python Assigments.
